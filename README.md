@@ -2,7 +2,7 @@
 Basic-Python
 
 # How I did:
-<img width="300" src="path.png" alt="path" />
+<img width="600" src="path.png" alt="path" />
 
 # What I learnt:
 
