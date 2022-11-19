@@ -6,6 +6,10 @@ Basic-Python
 
 # What I learnt:
 
+are you using jupyterLite? if so you'll need to use int(await input(…)) since their input function returns a future
+
+[see also] https://github.com/jupyterlite/jupyterlite/issues/275)
+
 <h1 align= "center"> Hi there!</h1>
 
 My name is Gülsah, I'm currently working on:
