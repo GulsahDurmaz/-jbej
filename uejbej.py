@@ -1,4 +1,4 @@
-n = int(input('Write a number'))
+n = int(input('Insert a number'))
 if n%15 == 0:
       print('üjbej')
 elif  n%3 == 0 and n%5 != 0:
