@@ -1,5 +1,10 @@
-# -jbej
+# uejbej
 Basic-Python
+
+# How I did:
+<img width="300" src="path" alt="path" />
+
+# What I learnt:
 
 <h1 align= "center"> Hi there!</h1>
 
@@ -14,4 +19,3 @@ I **love** learning about creative coding, so don't hesitate to say hi!
 
 <img width="300" src="me.gif" alt="me" />
 
-#what I have learnt here:
